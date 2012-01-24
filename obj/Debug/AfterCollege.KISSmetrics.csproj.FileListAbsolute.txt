@@ -1,0 +1,7 @@
+C:\wwwroot\rdux\AfterCollege.KISSmetrics\bin\Debug\AfterCollege.KISSmetrics.dll
+C:\wwwroot\rdux\AfterCollege.KISSmetrics\bin\Debug\AfterCollege.KISSmetrics.pdb
+C:\wwwroot\rdux\AfterCollege.KISSmetrics\obj\Debug\ResolveAssemblyReference.cache
+C:\wwwroot\rdux\AfterCollege.KISSmetrics\obj\Debug\AfterCollege.KISSmetrics.dll
+C:\wwwroot\rdux\AfterCollege.KISSmetrics\obj\Debug\AfterCollege.KISSmetrics.pdb
+C:\wwwroot\rdux\AfterCollege.KISSmetrics\bin\Debug\AfterCollege.KISSmetrics.dll.config
+C:\wwwroot\rdux\AfterCollege.KISSmetrics\bin\Debug\log4net.dll
