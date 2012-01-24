@@ -1,0 +1,5 @@
+C:\wwwroot\rdux\AfterCollege.KISSmetrics\obj\Release\ResolveAssemblyReference.cache
+C:\wwwroot\rdux\AfterCollege.KISSmetrics\bin\Release\AfterCollege.KISSmetrics.dll
+C:\wwwroot\rdux\AfterCollege.KISSmetrics\bin\Release\AfterCollege.KISSmetrics.pdb
+C:\wwwroot\rdux\AfterCollege.KISSmetrics\obj\Release\AfterCollege.KISSmetrics.dll
+C:\wwwroot\rdux\AfterCollege.KISSmetrics\obj\Release\AfterCollege.KISSmetrics.pdb
